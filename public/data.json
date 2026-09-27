@@ -1,0 +1,83 @@
+ [
+  {
+    "playerName": "Shakib Al Hasan",
+    "playerCountry": "Bangladesh",
+    "playerType": "All-Rounder",
+    "rating": 95,
+    "battingStyle": "Left-Handed",
+    "bowlingStyle": "Left-Arm Orthodox",
+    "price": 500,
+    "playerImg": "https://i.ibb.co.com/0VKLR0cP/images-1.jpg"
+  },
+  {
+    "playerName": "Virat Kohli",
+    "playerCountry": "India",
+    "playerType": "Batsman",
+    "rating": 94,
+    "battingStyle": "Right-Handed",
+    "bowlingStyle": "Right-Arm Medium",
+    "price": 1500,
+    "playerImg": "https://i.ibb.co.com/0VqfSmtr/lrqqt5ng-virat-kohli-announces-retirement-from-test-cricket-625x300-12-May-25.webp"
+  },
+  {
+    "playerName": "Babar Azam",
+    "playerCountry": "Pakistan",
+    "playerType": "Batsman",
+    "rating": 93,
+    "battingStyle": "Right-Handed",
+    "bowlingStyle": "Right-Arm Off Break",
+    "price": 2500,
+    "playerImg": "https://i.ibb.co.com/m5GztT9N/images-2.jpg"
+  },
+  {
+    "playerName": "Rashid Khan",
+    "playerCountry": "Afghanistan",
+    "playerType": "Bowler",
+    "rating": 92,
+    "battingStyle": "Right-Handed",
+    "bowlingStyle": "Right-Arm Leg Spin",
+    "price": 1300000,
+    "playerImg": "https://i.ibb.co.com/Z16nCxVd/images-3.jpg"
+  },
+  {
+    "playerName": "Jasprit Bumrah",
+    "playerCountry": "India",
+    "playerType": "Bowler",
+    "rating": 96,
+    "battingStyle": "Right-Handed",
+    "bowlingStyle": "Right-Arm Fast",
+    "price": 1600000,
+    "playerImg": "https://i.ibb.co.com/GjPh0rM/01bumra.jpg"
+  },
+  {
+    "playerName": "Joe Root",
+    "playerCountry": "England",
+    "playerType": "Batsman",
+    "rating": 91,
+    "battingStyle": "Right-Handed",
+    "bowlingStyle": "Right-Arm Off Break",
+    "price": 1250000,
+    "playerImg": "https://i.ibb.co.com/6RxpHsJX/images.jpg"
+  },
+  {
+    "playerName": "Kane Williamson",
+    "playerCountry": "New Zealand",
+    "playerType": "Batsman",
+    "rating": 90,
+    "battingStyle": "Right-Handed",
+    "bowlingStyle": "Right-Arm Off Break",
+    "price": 1200000,
+    "playerImg": "https://example.com/kane.jpg"
+  },
+  {
+    "playerName": "Andre Russell",
+    "playerCountry": "West Indies",
+    "playerType": "All-Rounder",
+    "rating": 89,
+    "battingStyle": "Right-Handed",
+    "bowlingStyle": "Right-Arm Fast",
+    "price": 1100000,
+    "playerImg": "https://example.com/russell.jpg"
+  }
+]
+
